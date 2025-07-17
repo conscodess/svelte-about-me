@@ -8,19 +8,19 @@
 
   let cardData = [
     {
-      image: "/ducks.jpg",
+      
       title: "Rubber Duckies",
       description:
         "I love rubber ducks,  whether they're gifts from friends, or from different places I've traveled to, each one carries a fun memory.",
     },
     {
-      image: "/disco.jpg",
+    
       title: "Music",
       description:
         "I love music, every part of it. I love dancing wih my friends, writing songs, and playing the guitar!",
     },
     {
-      image: "/gymnastics.jpg",
+      
       title: "Gymnastics",
       description:
         "I really enjoy tumbling, jumping, and flipping.I've done both competitive gymnastics and cheerleading.",
